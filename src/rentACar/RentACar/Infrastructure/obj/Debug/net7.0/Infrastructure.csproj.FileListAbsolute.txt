@@ -1,0 +1,11 @@
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

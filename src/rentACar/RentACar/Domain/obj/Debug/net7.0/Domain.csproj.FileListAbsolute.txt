@@ -1,0 +1,15 @@
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Domain.pdb
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistence.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\bin\Debug\net7.0\Core.Persistence.pdb
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\obj\Debug\net7.0\Domain.pdb
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Domain\obj\Debug\net7.0\ref\Domain.dll
