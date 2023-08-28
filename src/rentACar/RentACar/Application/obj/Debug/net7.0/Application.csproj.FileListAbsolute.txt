@@ -17,3 +17,5 @@ D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\R
 D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
 D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Application.dll
 D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.Application.pdb
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb

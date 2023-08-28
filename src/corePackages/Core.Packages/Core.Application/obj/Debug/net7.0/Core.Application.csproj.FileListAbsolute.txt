@@ -13,3 +13,5 @@ D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\corePackag
 D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.Persistence.pdb
 D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.AssemblyReference.cache
 D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\corePackages\Core.Packages\Core.Application\obj\Debug\net7.0\Core.Application.csproj.CopyComplete
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\corePackages\Core.Packages\Core.Application\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb

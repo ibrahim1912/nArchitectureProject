@@ -84,3 +84,13 @@ D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\R
 D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.Application.dll
 D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.Application.pdb
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Humanizer.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.CodeDom.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\FluentValidation.dll
+D:\BACKEND-PROJECTS-ONE-FILE\DOTNET-PROJECTS\nArchitectureProject\src\rentACar\RentACar\WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
